@@ -959,3 +959,15 @@ blockquote {
 	top: 0;
 	left: -2400px;
 }
+
+span.mbr-iconfont.mbr-iconfont-social.socicon-facebook.socicon {
+    color: red;
+}
+
+span.socicon-twitter.socicon.mbr-iconfont.mbr-iconfont-social {
+    color: red;
+}
+
+span.mbr-iconfont.mbr-iconfont-social.socicon-google.socicon {
+    color: red;
+}
