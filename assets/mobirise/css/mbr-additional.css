@@ -1477,3 +1477,10 @@ a {
   position: absolute;
   top: 0;
 }
+
+
+.mbr-figure.col-12.col-md-8 {
+    border: 5px solid #edf5e1;
+    box-shadow: 1px 2px 13px black;
+    border-radius: 10px;
+}
